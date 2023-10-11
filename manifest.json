@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
   "name": "Birdhouse",
-  "version": "1.0",
-  "description": "",
+  "version": "1.1",
+  "description": "Restore the legacy birdhouse icon on X",
   "content_scripts": [
     {
       "js": ["scripts/content.js"],
